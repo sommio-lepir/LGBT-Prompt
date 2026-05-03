@@ -1,7 +1,7 @@
 <div align="right">
-  语言:
-  简体中文
-  <a title="English" href="./README.en.md">English</a>
+  <a title="关于项目" href="./CONTRIBUTING.md">关于项目</a>
+  /
+  <a title="English" href="./README.en.md">English 英语</a>
 </div>
 
 # LGBT-Prompt

@@ -1,7 +1,7 @@
 <div align="right">
-  Language:
-  <a title="Chinese" href="./README.md">简体中文</a>
-  English
+  <a title="关于项目" href="./CONTRIBUTING.md">About Project</a>
+  /
+  <a title="Chinese" href="./README.md">中文 Chinese</a>
 </div>
 
 # LGBT-Prompt
